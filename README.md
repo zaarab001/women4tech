@@ -1,2 +1,2 @@
 # women4tech
-Web application for women 4Tech
+Web application for women 4Tech forum
